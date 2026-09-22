@@ -1,0 +1,6 @@
+{
+  "name": "Fluid UI Boost",
+  "description": "Candya R. — Assistante Virtuelle & Support Client Écrit pour coachs et formateurs en ligne : organisation administrative, suivi des paiements et des tâches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
